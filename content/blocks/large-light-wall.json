@@ -1,0 +1,13 @@
+{
+	"name": "Large Light Wall",
+	"description": "A wall made of light. Quite a good shield for your defences. Spans multiple tiles.",
+	"type": "Wall",
+	"health": 3000,
+	"size": 2,
+	"requirements": [
+		{ "item": "light", "amount": 72 }
+		{ "item": "dark", "amount": 24 }
+	],
+	"category": "defense",
+	"research": "copper-wall"
+}

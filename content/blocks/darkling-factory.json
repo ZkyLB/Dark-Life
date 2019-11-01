@@ -1,0 +1,25 @@
+{
+    "type": "UnitFactory",
+	"name": "Darkling Factory",
+	"description": "Makes Darkling units.",
+	"unitType": "darkling",
+	"size": 2,
+    "hasPower": true,
+	"hasItems": true,
+	"produceTime": 750,
+	"consumes": {
+		"power": 0.5,
+		"items": {
+			"items": [
+				{"item": "light", "amount": 10},
+				{"item": "dark", "amount": 5},
+			]
+		}
+	},
+	"category": "units",
+	"research": "fortress-factory",
+	"requirements": [
+		{ "item": "light", "amount": 150 },
+		{ "item": "dark", "amount": 85 },
+	]
+}

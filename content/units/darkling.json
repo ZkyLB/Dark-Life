@@ -1,0 +1,33 @@
+{
+	"type": "groundUnit",
+	"name": "Darkling",
+	"description": "The unit of the dark. Quite hard to spot as it camouflages with the floor.",
+	"speed": 0.1,
+	"flying": false,
+	"health": 125,
+	"engineOffset": 4.5,
+	"range": 85,
+	"weapon": {
+		"name": "deathlight",
+		"length": 3.7,
+		"width": 6.0,
+		"reload": 25,
+		"recoil": 3,
+		"alternate": true,
+		"bullet":{
+            "type":"BasicBulletType",
+            "speed": 11.5,
+            "damage": 18,
+            "bulletWidth": 12,
+            "bulletHeight": 7,
+            "shootEffect": "shockwave",
+            "smokeEffect": "shootBigSmoke2",
+            "hitEffect": "shockwave",
+            "lifetime": 12.5,
+            "inaccuracy": 3,
+            "frontColor": "FFFFFF",
+            "backColor": "262626",
+            "bulletShrink": 0.3,
+        },
+	}
+}

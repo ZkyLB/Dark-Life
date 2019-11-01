@@ -1,0 +1,6 @@
+{
+	"type": "StaticWall",
+	"name": "Light Wall",
+	"fillsTile": false,
+	"variants": 2,
+}

@@ -1,0 +1,8 @@
+{
+	"type": "Router",
+	"name": "Light Router",
+	"description": "Literally the most regular router in the dark.",
+	"requirements": [
+		{ "item": "light", "amount": 5 },
+	]
+}

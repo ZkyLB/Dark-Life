@@ -1,0 +1,13 @@
+{
+	"type": "ItemBridge",
+	"name": "Light Bridge",
+	"description": "Blah.",
+	"range": 5,
+	"hasPower": false,
+	"itemCapacity": 14,
+	"transportSpeed": 2.5,
+	"requirements": [
+		{ "item": "light", "amount": 16 }
+		{ "item": "dark", "amount": 4 }
+	],
+}

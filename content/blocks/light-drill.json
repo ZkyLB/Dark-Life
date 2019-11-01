@@ -1,0 +1,13 @@
+{
+	"name": "Light Drill",
+	"description": "The basic drill of the dark.",
+	"type": "Drill",
+	"size": 2,
+	"tier": 1,
+	"drillTime": 450,
+	"requirements": [
+		{ "item": "light", "amount": 24 },
+	],
+	"category": "production",
+	"research": "mechanical-drill"
+}

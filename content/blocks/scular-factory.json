@@ -1,0 +1,25 @@
+{
+    "type": "UnitFactory",
+	"name": "Scular Factory",
+	"description": "Makes Scular units.",
+	"unitType": "scular",
+	"size": 3,
+    "hasPower": true,
+	"hasItems": true,
+	"produceTime": 750,
+	"consumes": {
+		"power": 0.5,
+		"items": {
+			"items": [
+				{"item": "light", "amount": 5},
+				{"item": "dark", "amount": 10},
+			]
+		}
+	},
+	"category": "units",
+	"research": "darkling-factory",
+	"requirements": [
+		{ "item": "light", "amount": 350 },
+		{ "item": "dark", "amount": 125 },
+	]
+}
