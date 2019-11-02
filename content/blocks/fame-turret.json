@@ -1,0 +1,46 @@
+{
+	"type": "BurstTurret",
+	"name": "Fame",
+	"description": "First tier turret. Their fame will end with a bit of shots.",
+	"health": 400,
+	"size": 2,
+	"reload": 85,
+	"shots": 5,
+	"range": 275,
+	"ammoUseEffect": "unitLand",
+	"inaccuracy": 1.2,
+	"rotatespeed": 15,
+	"targetAir": true,
+	"ammo": {
+		"light": {
+			"speed": 9.5,
+			"damage": 85,
+			"bulletWidth": 9,
+			"bulletHeight": 15,
+			"shootEffect": "shootBig",
+			"smokeEffect": "shootSmallSmoke",
+			"frontColor": "FFFFFF",
+			"backColor": "0D0D0D",
+			"lifetime": 125,
+			"ammoMultiplier": 18,
+		},
+		"dark": {
+			"speed": 12.0,
+			"damage": 125,
+			"bulletWidth": 9,
+			"bulletHeight": 15,
+			"shootEffect": "shootBig",
+			"smokeEffect": "shootSmallSmoke",
+			"frontColor": "0D0D0D",
+			"backColor": "FFFFFF",
+			"lifetime": 150,
+			"ammoMultiplier": 12,
+		}
+	},
+	"requirements": [
+		{ "item": "light", "amount": 250 },
+		{ "item": "dark", "amount": 65 },
+	],
+	"category": "turret",
+	"research": "spotlight-turret"
+}
