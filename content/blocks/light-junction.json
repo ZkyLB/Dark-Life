@@ -1,7 +1,7 @@
 {
 	"type": "Junction",
 	"name": "Light Junction",
-	"description": "Lets you make crossways of two conveyors. You could probably use this to make "small" storages.,
+	"description": "Lets you make crossways of two conveyors. You could probably use this to make small storages.",
 	"speed": 7,
 	"capacity": 16,
 }
