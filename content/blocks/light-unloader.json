@@ -1,0 +1,8 @@
+{
+	"type": "Unloader",
+	"name": "Light Unloader"
+	"description": "Unloads things from containers.",
+	"size": 2,
+	"speed": 2,
+	"health": 130,
+}

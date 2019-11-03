@@ -4,7 +4,7 @@
 	"description": "A upgraded version of Darkling.",
 	"speed": 0.1,
 	"flying": false,
-	"health": 350,
+	"health": 750,
 	"engineOffset": 4.5,
 	"range": 120,
 	"weapon": {

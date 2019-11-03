@@ -4,7 +4,7 @@
 	"description": "The unit of the dark. Quite hard to spot as it camouflages with the floor.",
 	"speed": 0.1,
 	"flying": false,
-	"health": 125,
+	"health": 350,
 	"engineOffset": 4.5,
 	"range": 85,
 	"weapon": {

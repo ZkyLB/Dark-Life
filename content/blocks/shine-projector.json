@@ -1,0 +1,18 @@
+{
+	"type": "MendProjector",
+	"name": "Shine Projector",
+	"description": "Uses light as a healing power to every block.",
+	"size": 2,
+	"color": "ffffff",
+	"phase": "000000",
+	"reload": 150,
+	"range": 90,
+	"healPercent": 15,
+	"useTime": 300,
+	"category": "effect",
+	"requirements": [
+		{ "item": "light", "amount": 180 },
+		{ "item": "dark", "amount": 25 }
+
+	]
+}
