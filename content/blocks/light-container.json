@@ -1,0 +1,13 @@
+{
+	"type": "Vault",
+	"name": "Light Container",
+	"description": "Contains things. Very bright inside.",
+	"size": 2,
+	"itemCapacity": 5000,
+	"category": "effect",
+	"requirements": [
+		{ "item": "light", "amount": 160 },
+		{ "item": "dark", "amount": 65 }
+	]
+
+}
