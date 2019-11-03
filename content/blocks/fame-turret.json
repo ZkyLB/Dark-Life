@@ -34,7 +34,7 @@
 			"frontColor": "0D0D0D",
 			"backColor": "FFFFFF",
 			"lifetime": 150,
-			"ammoMultiplier": 12,
+			"ammoMultiplier": 8,
 		}
 	},
 	"requirements": [

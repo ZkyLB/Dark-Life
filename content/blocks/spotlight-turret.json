@@ -13,7 +13,7 @@
 	"ammo": {
 		"light": {
 			"speed": 9.5,
-			"damage": 8,
+			"damage": 4,
 			"bulletWidth": 9,
 			"bulletHeight": 15,
 			"shootEffect": "shootBig",
@@ -25,7 +25,7 @@
 		},
 		"dark": {
 			"speed": 12.0,
-			"damage": 26,
+			"damage": 16,
 			"bulletWidth": 9,
 			"bulletHeight": 15,
 			"shootEffect": "shootBig",
