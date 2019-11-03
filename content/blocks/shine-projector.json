@@ -7,6 +7,10 @@
 	"phase": "000000",
 	"reload": 150,
 	"range": 90,
+	"consumes": {
+		"items": { "items": [ { "item": "light", "amount": 2 } ] },
+		"power": 2.0
+	},
 	"healPercent": 15,
 	"useTime": 300,
 	"category": "effect",

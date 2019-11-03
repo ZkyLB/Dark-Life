@@ -3,5 +3,10 @@
 	"name": "Light Junction",
 	"description": "Lets you make crossways of two conveyors. You could probably use this to make small storages.",
 	"speed": 7,
+	"size": 1,
+	"health": 50,
 	"capacity": 16,
+	"requirements": [
+		{ "item": "light", "amount": 2 }
+	]
 }
