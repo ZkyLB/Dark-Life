@@ -1,9 +1,0 @@
-{
-	"type": "Router",
-	"name": "Light Distributor",
-	"size": 2,
-	"description": "Literally the most regular distributor in the dark.",
-	"requirements": [
-		{ "item": "light", "amount": 25 },
-	]
-}

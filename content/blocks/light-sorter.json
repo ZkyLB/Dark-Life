@@ -1,8 +1,0 @@
-{
-	"type": "Sorter",
-	"name": "Light Sorter",
-	"description": "Useless.",
-	"requirements": [
-		{ "item": "light", "amount": 2 }
-	] 
-}
